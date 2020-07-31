@@ -10,12 +10,12 @@
 </dependency>
 ```
 
-### 使用
+### 在Maven中使用
 ```$xslt
 <parent>
-    <groupId>com.github.xinput</groupId>
+    <groupId>com.github.xinput123</groupId>
     <artifactId>xinput-springboot-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.4</version>
     <relativePath/>
 </parent>
 
